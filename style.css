@@ -189,15 +189,10 @@ h4 {
 .commty-txt{
     padding: 43px;
 }
-.commty-txt a{
+.commty-txt span{
     border-radius: 70px;
     padding: 10px 20px;
     width: fit-content;
-}
-.commty-txt a:hover{
-    background-color: #6386f8(224, 213, 199);
-    color: #181717;
-    transition: 0.5s;
 }
 .testimonias{
     padding: 20px;
